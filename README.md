@@ -48,10 +48,7 @@ The objective is to:
 - Connect each PC to the switch using **Copper Straight-Through** cables:  
   - PC0 → Switch Fa0/1  
   - PC1 → Switch Fa0/2  
-  - PC2 → Switch Fa0/3  
-
-**📷 Topology Screenshot Placeholder**  
-`![Topology](demo/screenshots/topology.png)`  
+  - PC2 → Switch Fa0/3   
 
 ---
 
@@ -60,9 +57,6 @@ On each PC:
 - **PC0** → `192.168.1.2 / 255.255.255.0`  
 - **PC1** → `192.168.1.3 / 255.255.255.0`  
 - **PC2** → `192.168.1.4 / 255.255.255.0`  
-
-**📷 IP Config Screenshot Placeholder**  
-`![PC0 IP Config](demo/screenshots/ipconfig_pc0.png)`  
 
 ---
 
